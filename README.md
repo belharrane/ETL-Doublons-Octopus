@@ -28,5 +28,5 @@ FileDescriptiondetection_doublons_octopus_v2.ipynbMain notebookrapport_detection
 Bouchra Belharrane — Data Analyst
 LinkedIn : www.linkedin.com/in/bouchrabelharrane
 
-![Visualisation](etl_doublons_visualization.png)
+![Visualisation](Visualization_doublons.png)
 
